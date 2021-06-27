@@ -1,3 +1,5 @@
+# Question link: https://drive.google.com/file/d/1YyMzLed3RZEWcYIjSQ5Ze1hJqFWyWmYt/view?usp=sharing
+
 def MilkCookies():
     validities = [] # Taking a list to see if all the strings follow the pattern
     for each_case in full_list:
