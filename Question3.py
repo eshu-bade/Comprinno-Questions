@@ -1,6 +1,6 @@
 # Question link: https://drive.google.com/file/d/1d5TKLBymv4Gu9c13I5UgXXMhknjYDr0B/view?usp=sharing
 
-def validString():
+def templeLand():
     # Creating an even list to check the lenght of the given values
     evens = [i * 2 for i in range(1, 100)]
 
@@ -29,4 +29,4 @@ for i in range(strips):
     full_list.append(values)# List of the lists.
 
 # Calling the function
-validString()
+templeLand()
