@@ -1,4 +1,4 @@
-# Question link: 
+# Question link: https://drive.google.com/file/d/1xjiXgD_CKjO28M4o80Uzr_59Q3zB18oX/view?usp=sharing
 def OrderingTeams():
     
     """I will compare the sum values of each person's skill and if the sum values are distinct, those are YES, else NO"""
